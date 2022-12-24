@@ -1,7 +1,7 @@
 {
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jessecrossen/ttsim.git"
+    "url": "git+https://github.com/sensen1/TuringTumble.git"
   },
   "license": "Unlicense",
   "dependencies": {

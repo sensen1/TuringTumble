@@ -6,8 +6,8 @@ watch: dist
 dist: physics app graphics
 
 server:
-	python3 -m webbrowser "http://localhost:8080/"
-	cd docs && python3 -m http.server 8080
+	python3 -m webbrowser "http://localhost:5001/"
+	cd docs && python3 -m http.server 5001
 
 # APP
 
